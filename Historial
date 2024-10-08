@@ -1,0 +1,494 @@
+    1  ls
+    2  mkdir repoGit
+    3  ls
+    4  cd repoGit/
+    5  git clone git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    6  sudo git clone git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    7  ls
+    8  pwd
+    9  sudo git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+   10  ls
+   11  git clone https://github.com/FiorellaAguayo/UTNFRA_SO_1P2C_2024_Aguayo.git
+   12  ls
+   13  cd UTN-FRA_SO_Examenes/
+   14  ls
+   15  cd 202410
+   16  ls
+   17  sudo ./script_Precondicion.sh 
+   18  cd ..
+   19  ls
+   20  pwd
+   21  cd repoGit/
+   22  ls
+   23  sudo ./script_Precondicion.sh 
+   24  pwd
+   25  cd ..
+   26  ls
+   27  cd osboxes/
+   28  ls
+   29  ls repoGit/
+   30  pwd
+   31  git clone https://github.com/FiorellaAguayo/UTNFRA_SO_1P2C_2024_Aguayo.git
+   32  pwd
+   33  ls
+   34  cd repoGit/
+   35  ls
+   36  cd UTN-FRA_SO_Examenes/
+   37  ls
+   38  cd 202410
+   39  ls
+   40  ./script_Precondicion.sh 
+   41  source ~/.bashrc  && history -a 
+   42  cd ..
+   43  ls
+   44  rm -r UTNFRA_SO_1P2C_2024_Aguayo/
+   45  sudo rm -r UTNFRA_SO_1P2C_2024_Aguayo/
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd UTNFRA_SO_1P2C_2024_Aguayo/
+   50  ls
+   51  cd RTA_SCRIPT_Examen_20241007/
+   52  ls
+   53  nano Punto_A.sh 
+   54  chmod +x Punto_A.sh
+   55  sudo ./Punto_A.sh 
+   56  cd ..
+   57  ls
+   58  cd UTNFRA_SO_1P2C_2024_Aguayo/
+   59  ls
+   60  cd RTA_SCRIPT_Examen_20241007/
+   61  ls
+   62  nano Punto_A.sh 
+   63  sudo ./Punto_A.sh 
+   64  cd ..
+   65  ls
+   66  rm -r repoGit/
+   67  sudo rm -r repoGit/
+   68  rm -r repogit/
+   69  sudo rm -r repogit/
+   70  ls
+   71  UTNFRA_SO_1P2C_2024_Aguayo/
+   72  cd UTNFRA_SO_1P2C_2024_Aguayo/
+   73  ls
+   74  tree Examenes-UTN/
+   75  sudo apt install tree
+   76  tre Examenes-UTN/
+   77  tree Examenes-UTN/
+   78  cd ..
+   79  ls
+   80  mkdir repoGit
+   81  cd repoGit/
+   82  ls
+   83  sudo git clone https://github.com/upszot/UTN-FRA_SO_Examenes.gi
+   84  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+   85  ls
+   86  rm -r UTN-FRA_SO_Examenes
+   87  sudo rm -r UTN-FRA_SO_Examenes
+   88  sudo rm -r UTN-FRA_SO_Examenes.gi/
+   89  ls
+   90  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+   91  ls
+   92  clear
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd repoGit/
+   97  ls
+   98  cd 202410
+   99  ls
+  100  cd UTN-FRA_SO_Examenes/
+  101  ls
+  102  cd 202410
+  103  ls
+  104  cd ..
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  109  ls
+  110  clear
+  111  ls
+  112  ls Examenes-UTN/
+  113  tree Examenes-UTN/
+  114  clear
+  115  ls
+  116  cs RTA_S
+  117  cs RTA_SCRIPT_Examen_20241007/
+  118  cd RTA_SCRIPT_Examen_20241007/
+  119  ls
+  120  nano Punto_B.sh 
+  121  lsblk
+  122  fdisk -l
+  123  sudo fdisk -l
+  124  ls
+  125  chmod +x Punto_B.sh 
+  126  sudo ./Punto_B.sh 
+  127  sudo fdisk -l
+  128  lsblk
+  129  sudo fdisk /dev/sdb
+  130  sudo fdisk -l
+  131  lsblk
+  132  nano Punto_B.sh 
+  133  truncate -s 0 Punto_B.sh 
+  134  nano Punto_B.sh 
+  135  sudo ./Punto_B.sh 
+  136  lsblk
+  137  sudo fdisk /dev/sdb
+  138  sudo fdisk -l
+  139  f -h
+  140  df -h
+  141  sudo fdisk -l /dev/sdb
+  142  sudo fdisk /dev/sdb
+  143  sudo ./Punto_B.sh 
+  144  ls
+  145  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  146  ls
+  147  cd RTA_SCRIPT_Examen_20241007/
+  148  ls
+  149  sudo ./Punto_B.sh 
+  150  sudo fdisk /dev/sdb
+  151  ls
+  152  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  153  ls
+  154  nano README.md 
+  155  cat README.md 
+  156  CD ..
+  157  cd ..
+  158  ls
+  159  ls repoGit/
+  160  ls
+  161  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  162  ls
+  163  cd RTA_SCRIPT_Examen_20241007/
+  164  ls
+  165  cat Punto_B.sh 
+  166  sudo fdisk -l
+  167  lsblk
+  168  sudo ./Punto_B.sh 
+  169  lsblk
+  170  nano Punto_B.sh 
+  171  cat Punto_A.sh 
+  172  vim Punto_A.sh 
+  173  sudo apt install vim
+  174  sudo fdisk /dev/sdb
+  175  sudo fdisk -l
+  176  nano Punto_B.sh 
+  177  sudo fdisk -l
+  178  sudo fdisk /dev/sdb
+  179  sudo fdisk -l
+  180  sudo fdisk /dev/sdb
+  181  lsblk
+  182  ls
+  183  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  184  ls
+  185  cd RTA_SCRIPT_Examen_20241007/
+  186  ls
+  187  sudo ./Punto_B.sh 
+  188  nano Punto_B.sh 
+  189  lsblk
+  190  sudo fdisk /dev/sdb
+  191  lsblk
+  192  ls
+  193  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  194  ls
+  195  cd RTA_SCRIPT_Examen_20241007/
+  196  ls
+  197  sudo ./Punto_A.sh 
+  198  sudo ./Punto_B.sh 
+  199  lsblk
+  200  sudo fdisk /dev/sdb
+  201  lsblk
+  202  sudo fdisk /dev/sdb
+  203  sudo fdisk -l
+  204  sudo fdisk /dev/sdb
+  205  sudo fdisk -l
+  206  sudo fdisk /dev/sdb
+  207  ls
+  208  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  209  ls
+  210  cd RTA_SCRIPT_Examen_20241007/
+  211  ls
+  212  sudo ./Punto_B.sh 
+  213  cat Punto_A
+  214  ls
+  215  cat Punto_A.sh 
+  216  nano Punto_A.sh 
+  217  sudo fdisk /dev/sdb
+  218  nano Punto_B.sh 
+  219  truncate -s 0 Punto_B.sh
+  220  nano Punto_B.sh 
+  221  sudo ./Punto_B.sh 
+  222  lsblk
+  223  cat Punto_B.sh 
+  224  nano Punto_B.sh 
+  225  truncate -s 0 Punto_B.sh
+  226  nano Punto_B.sh 
+  227  lsblk
+  228  sudo fdisk /dev/sdb
+  229  lsblk
+  230  sudo ./Punto_B.sh 
+  231  ls
+  232  lsblk
+  233  nano Punto_B.sh 
+  234  lsblk
+  235  sudo fdisk /dev/sdb
+  236  lsblk
+  237  sudo ./Punto_B.sh 
+  238  lsblk
+  239  nano Punto_B.sh 
+  240  lsblk
+  241  sudo fdisk /dev/sdb
+  242  lsblk
+  243  truncate -s 0 Punto_B.sh
+  244  nano Punto_B.sh 
+  245  sudo ./Punto_B.sh 
+  246  lsblk
+  247  sudo fdisk -l
+  248  sudo fdisk /dev/sdb
+  249  sudo fdisk -l
+  250  nano Punto_B.sh 
+  251  sudo ./Punto_B.sh 
+  252  sudo fdisk -l
+  253  cat Punto_B.sh 
+  254  cd ..
+  255  ls
+  256  cd repoGit/
+  257  ls
+  258  cd ..
+  259  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  260  ls
+  261  tree Examenes-UTN/
+  262  cd ..
+  263  sudo fdisk -l
+  264  sudo fdisk /dev/sdb
+  265  ls
+  266  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  267  cd RTA_SCRIPT_Examen_20241007/
+  268  nano Punto_B.sh 
+  269  truncate -s 0 Punto_B.sh
+  270  nano Punto_B.sh 
+  271  sudo ./Punto_B.sh 
+  272  sudo fuser -v /dev/sdb1
+  273  sudo umount /dev/sdb1
+  274  sudo fdisk /dev/sdb
+  275  sudo umount /dev/sdb1
+  276  sudo ./Punto_B.sh 
+  277  sudo fdisk /dev/sdb
+  278  lsblk
+  279  sudo ./Punto_B.sh 
+  280  ls
+  281  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  282  ls
+  283  cd RTA_SCRIPT_Examen_20241007/
+  284  ls
+  285  sudo ./Punto_B.sh 
+  286  cd ..
+  287  ls
+  288  tree
+  289  cd Examenes-UTN/alumno_1/parcial_1
+  290  ls
+  291  cd ..
+  292  ls
+  293  cd RTA_SCRIPT_Examen_20241007/
+  294  ls
+  295  cat Punto_B.sh 
+  296  nano Punto_B.sh 
+  297  sudo fdisk /dev/sdb
+  298  lsblk
+  299  sudo fdisk -l
+  300  sudo ./Punto_B.sh 
+  301  sudo fdisk -l
+  302  ldsbk
+  303  lsdbk
+  304  lsblk
+  305  ls
+  306  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  307  ls
+  308  tree Examenes-UTN/
+  309  cd Examenes-UTN/
+  310  cd alumno_1
+  311  ls
+  312  ls parcial_1
+  313  cd ..
+  314  ls
+  315  cd RTA_SCRIPT_Examen_20241007/
+  316  ls
+  317  cat Punto_B.sh 
+  318  LS
+  319  ls
+  320  nano Punto_C.sh 
+  321  chmod +x Punto_C.sh 
+  322  ls
+  323  sudo ./Punto_C.sh 
+  324  cat ./Punto_C.sh 
+  325  cd ..
+  326  ls
+  327  ls repoGit/
+  328  ls
+  329  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  330  cd RTA_SCRIPT_Examen_20241007/
+  331  nano Punto_C.sh 
+  332  sudo ./Punto_C.sh 
+  333  cut -d: -f1 /etc/passwd
+  334  sudo userdel -r p1c2_2024_A1
+  335  sudo userdel p1c2_2024_A1
+  336  sudo userdel p1c2_2024_a2
+  337  grep "^p1c2_2024_" /etc/passwd
+  338  sudo nano /etc/passwd
+  339  grep "^p1c2_2024_" /etc/passwd
+  340  cut -d: -f1 /etc/passwd
+  341  nano Punto_C.sh 
+  342  truncate -s 0 Punto_C.sh
+  343  nano Punto_C.sh 
+  344  truncate -s 0 Punto_C.sh
+  345  nano Punto_C.sh 
+  346  cat Punto_B.sh 
+  347  nano Punto_B.sh 
+  348  lsdbk
+  349  sudo fdisk /dev/sdb
+  350  sudo fdisk -l
+  351  lsblk
+  352  clear
+  353  sudo ./Punto_C.sh 
+  354  nano Punto_C.sh 
+  355  truncate -s 0 Punto_C.sh
+  356  nano Punto_C.sh 
+  357  cut -d: -f1 /etc/passwd
+  358  sudo nano /etc/passwd
+  359  cut -d: -f1 /etc/passwd
+  360  nano Punto_C.sh 
+  361  truncate -s 0 Punto_C.sh
+  362  nano Punto_C.sh 
+  363  sudo ./Punto_C.sh 
+  364  ls
+  365  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  366  cd RTA_SCRIPT_Examen_20241007/
+  367  ls
+  368  cat Punto_C.sh 
+  369  cut -d: -f1 /etc/passwd
+  370  nano Punto_C.sh 
+  371  cat Punto_C.sh 
+  372  sudo ./Punto_C.sh 
+  373  cut -d: -f1 /etc/passwd
+  374  ls
+  375  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  376  ls
+  377  ls Examenes-UTN/
+  378  cd RTA_SCRIPT_Examen_20241007/
+  379  s
+  380  ls
+  381  nano Punto_C.sh 
+  382  truncate -s 0 Punto_C.sh
+  383  nano Punto_C.sh 
+  384  sudo ./Punto_C.sh 
+  385  ls
+  386  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  387  ls
+  388  xs RTA_SCRIPT_Examen_20241007/
+  389  cd RTA_s
+  390  cd RTA_SCRIPT_Examen_20241007/
+  391  ls
+  392  nano Punto_C.sh 
+  393  sudo ./Punto_C.sh 
+  394  cd ..
+  395  ls
+  396  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  397  ls
+  398  tree Examenes-UTN/
+  399  cd Examenes-UTN/
+  400  cd alumno_1
+  401  sudo cd alumno_1
+  402  ls
+  403  cd ..
+  404  ls
+  405  cd RTA_SCRIPT_Examen_20241007/
+  406  ls
+  407  nano Punto_C.sh 
+  408  sudo ./Punto_C.sh 
+  409  ls
+  410  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  411  ls
+  412  cd RTA_SCRIPT_Examen_20241007/
+  413  ls
+  414  nano Punto_D.sh 
+  415  chmod +x Punto_D.sh 
+  416  ls
+  417  sudo ./Punto_D.sh 
+  418  cd ..
+  419  ls
+  420  cd ..
+  421  ls
+  422  ls Estructura_Asimetrica/
+  423  ls clientes
+  424  cd Estructura_Asimetrica/
+  425  ls
+  426  ls clientes/
+  427  ls correo/
+  428  tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+  429  cd ..
+  430  tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+  431  ls
+  432  cd osboxes/
+  433  ls
+  434  cd UTNFRA_SO_1P2C_2024_Aguayo/
+  435  ls
+  436  cd RTA_SCRIPT_Examen_20241007/
+  437  ls
+  438  cat Punto_D.sh 
+  439  LS
+  440  ls
+  441  nano Punto_E.sh 
+  442  chmod +x Punto_E.sh 
+  443  sudo ./Punto_E.sh 
+  444  cd ..
+  445  ls
+  446  ls RTA_A
+  447  ls RTA_ARCHIVOS_Examen_20241007/
+  448  ls
+  449  nano Punto_E.sh 
+  450  ls
+  451  cd RTA_ARCHIVOS_Examen_20241007/
+  452  ls
+  453  cd ..
+  454  cd RTA_SCRIPT_Examen_20241007/
+  455  cat Punto_D.sh 
+  456  cat Punto_E.sh 
+  457  sudo ./Punto_E.sh 
+  458  nano Punto_E.sh 
+  459  cd ..
+  460  ls
+  461  rm -r Punto_E.sh 
+  462  ls
+  463  cd RTA_SCRIPT_Examen_20241007/
+  464  sudo ./Punto_E.sh 
+  465  nano Punto_F.sh 
+  466  cd ..
+  467  ls
+  468  cd RTA_SCRIPT_Examen_20241007/
+  469  nano Punto_E.sh 
+  470  sudo ./Punto_E.sh 
+  471  cat Punto_E.sh 
+  472  nano Punto_E.sh 
+  473  cat Punto_E.sh 
+  474  sudo ./Punto_E.sh 
+  475  sudo ./Punto_F.sh 
+  476  ls
+  477  nano Punto_F.sh 
+  478  chmod +x Punto_F.sh 
+  479  nano Punto_F.sh 
+  480  sudo ./Punto_F.sh 
+  481  history -a
+  482  ls history -a
+  483  sudo history -a
+  484  history
+  485  cp ~/.bash_history ~/UTNFRA_SO_1P2C_2024_Aguayo/
+  486  cd ..
+  487  git add .bash_history
+  488  git commit -m "feat: agregar historial de comandos"
+  489  ls
+  490  cd RTA_SCRIPT_Examen_20241007/
+  491  ls
+  492  cat Punto_E.sh 
+  493  cat Punto_F.sh 
+  494  history > ~/UTNFRA_SO_1P2C_2024_Aguayo/Historial
